@@ -1,12 +1,18 @@
 <br clear="both">
 
-<h1 align="right">Pablo Mansilla Martinelli</h1>
+<h1 align="left">Pablo Mansilla Martinelli</h1>
 
 ###
 
 <br clear="both">
 
-<div align="right">
+<p align="left">Superintelligent and extremely humble programmer 🤣<br><br>Video Game and Digital Entertainment Developer with over 7 years of experience, specialized in Unity programming 🕹 with strong UI/UX skills, and recent experience with Unreal Engine. I complement my profile with 2D/3D art and design skills, as well as web development experience using HTML, CSS, JavaScript, and Firebase.<br><br>🎓 Graduate of the Video Game and Digital Entertainment Design program at Toulouse Lautrec, passionate about creating interactive experiences that blend technology, design, and creativity. I quickly adapt to new challenges and constantly seek innovative solutions to complex problems.</p>
+
+###
+
+<br clear="both">
+
+<div align="left">
   <a href="https://pabloj2m.itch.io" target="_blank">
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="itch logo"  />
   </a>
@@ -28,15 +34,9 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PabloJ2M.PabloJ2M&left_color=black&right_color=blue"  />
 </div>
-
-###
-
-<br clear="both">
-
-<p align="left"></p>
 
 ###
 
@@ -82,7 +82,10 @@
 
 <br clear="both">
 
-<p align="left">Superintelligent and extremely humble programmer 🤣<br><br>Video Game and Digital Entertainment Developer with over 7 years of experience, specialized in Unity programming 🕹 with strong UI/UX skills, and recent experience with Unreal Engine. I complement my profile with 2D/3D art and design skills, as well as web development experience using HTML, CSS, JavaScript, and Firebase.<br><br>🎓 Graduate of the Video Game and Digital Entertainment Design program at Toulouse Lautrec, passionate about creating interactive experiences that blend technology, design, and creativity. I quickly adapt to new challenges and constantly seek innovative solutions to complex problems.</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PabloJ2M&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=PabloJ2M&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="147" alt="stats graph"  />
+</div>
 
 ###
 
@@ -101,18 +104,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PabloJ2M/PabloJ2M/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PabloJ2M/PabloJ2M/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/PabloJ2M/PabloJ2M/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PabloJ2M&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloJ2M&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="147" alt="stats graph"  />
-</div>
 
 ###
