@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Pablo Mansilla Martinelli</h2>
+<h3 align="left">Pablo Mansilla Martinelli</h3>
 
 ###
 
@@ -29,6 +29,12 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PabloJ2M.PabloJ2M&left_color=black&right_color=blue"  />
 </div>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
 
 ###
 
@@ -81,7 +87,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=PabloJ2M&theme=nord&column=-1&row=1&margin-w=0&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=PabloJ2M&theme=nord&column=-1&row=1&margin-w=20&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -99,8 +105,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloJ2M&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="147" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=PabloJ2M&locale=en&mode=weekly&theme=nord&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=PabloJ2M&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PabloJ2M&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="147" alt="stats graph"  />
 </div>
 
 ###
