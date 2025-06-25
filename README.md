@@ -1,11 +1,5 @@
 <br clear="both">
 
-<h1 align="left">Pablo Mansilla Martinelli</h1>
-
-###
-
-<br clear="both">
-
 <div align="left">
   <a href="https://pabloj2m.itch.io" target="_blank">
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="itch logo"  />
@@ -20,6 +14,12 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<h1 align="left">Pablo Mansilla Martinelli</h1>
 
 ###
 
