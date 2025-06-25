@@ -83,16 +83,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PabloJ2M&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloJ2M&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="147" alt="stats graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=PabloJ2M&theme=nord&column=-1&row=1&margin-w=20&margin-h=20&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=PabloJ2M&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph"  />
 </div>
 
 ###
