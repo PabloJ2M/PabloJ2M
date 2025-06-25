@@ -17,8 +17,6 @@
 
 ###
 
-<br clear="both">
-
 <h1 align="left">Pablo Mansilla Martinelli</h1>
 
 ###
