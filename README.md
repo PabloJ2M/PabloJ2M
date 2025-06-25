@@ -21,8 +21,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">Superintelligent and extremely humble programmer 🤣<br><br>Video Game and Digital Entertainment Developer with over 7 years of experience, specialized in Unity programming 🕹 with strong UI/UX skills, and recent experience with Unreal Engine. I complement my profile with 2D/3D art and design skills, as well as web development experience using HTML, CSS, JavaScript, and Firebase.<br><br>🎓 Graduate of the Video Game and Digital Entertainment Design program at Toulouse Lautrec, passionate about creating interactive experiences that blend technology, design, and creativity. I quickly adapt to new challenges and constantly seek innovative solutions to complex problems.</p>
 
 ###
